@@ -16,8 +16,8 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Powered by <a href="//www.suits.at"> SUITS </a></span>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span><br>
+      <span class="footer__links"><a href="//"> The Last of Blog </a></span>
     </footer>
 
   </div>
