@@ -16,8 +16,7 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span><br>
-      <span class="footer__links"><a href="//"> The Last of Blog </a></span>
+      <span class="footer__copyright">The Last of Blog © {{ new Date().getFullYear() }}. </span>
     </footer>
 
   </div>
