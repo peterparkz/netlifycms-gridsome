@@ -6,12 +6,12 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Desvendando e explicando a ciência por trás do universo dos jogos de The Last of Us.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="//">Referências</a>
+			<a href="https://">UNIOESTE</a>
 		</p>
 
 	</div>
